@@ -1,0 +1,4 @@
+src/models
+src/data/*.csv
+src/data/*.parquet
+src/credentials.py
